@@ -1,2 +1,6 @@
-openai
-python-dotenv
+datasets==3.5.0
+langchain==0.3.23
+langchain_community==0.3.21
+langchain_core==0.3.51
+langchain_openai==0.3.12
+langgraph==0.3.25
